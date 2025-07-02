@@ -1,16 +1,19 @@
 <div>
+  
 <!--   Header -->
   ![header](https://capsule-render.vercel.app/api?type=wave&&&color=timeGradient&height=300&section=head&text=Hello!%F0%9F%A4%97) 
+
 </div>
 
 <div>
-  <!--Body-->
+<!--   Body -->
+
   ## 👀 About Me
   #### 🙋 I'm learning the full stack process in academi.<br/>
-  #### 🔥 I aim to become a Computer Engineer.<br/>
+  #### 🔥 I aim to become a Computer Engineer.<br/><br/><br/>
 
-  ##🦕 Tech Stack
-  ###Language
+  ## 🦕 Tech Stack
+  ### Language
   <!--HTML5 #E34F26-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--JS-->
@@ -18,8 +21,16 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
+  
+  ### Library
+  pyTorch..?
+  ### Framework
+  React..?
+  ### ETC
+  MySQL..?
+  <br/><br/><br/>
 
-  ##😅 Github Stats
+  ## 😅 Stats
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowothn)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowothn)](https://github.com/anuraghazra/github-readme-stats)
