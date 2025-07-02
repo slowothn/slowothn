@@ -1,7 +1,8 @@
 <div>
-  <!--Header-->
+<!--   Header -->
   ![header](https://capsule-render.vercel.app/api?type=wave&&&color=timeGradient&height=300&section=head&text=Hello!%F0%9F%A4%97) 
 </div>
+
 <div>
   <!--Body-->
   ## 👀 About Me
